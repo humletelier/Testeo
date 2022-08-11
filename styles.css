@@ -1,0 +1,180 @@
+#navar {
+    z-index: 2;
+    position: relative;
+    top: 0;
+}
+
+#carru {
+    z-index: 1;
+
+}
+
+footer {
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    background: #58D68D;
+
+}
+
+#cart {
+    width: 30px;
+    height: 30px;
+    color: yellow;
+}
+
+.header {
+    text-align: center;
+    height: 300px;
+    padding: 12px;
+    background-image: url(https://agroingeniacanarias.com/wp-content/uploads/2018/10/asesoramiento-en-jardineria-1-980x735.jpg);
+    background-size: cover
+}
+
+.dona {
+    text-align: center;
+    height: 300px;
+    padding: 12px;
+    background-image: url(https://www.zumosecologicos.com/blog/wp-content/uploads/2017/06/abonos-ecologicos.jpg);
+    background-size: cover
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.usuario {
+    font-size: 36px;
+    margin-top: 14px;
+    color: aliceblue;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.h1 {
+    text-align: center;
+}
+
+
+.nya {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.nya li {
+    display: inline-block;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #26854d;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background-size: cover;
+}
+
+.ig {
+    background-image: url("icons/facebook");
+}
+
+.art{
+    text-align: center
+}
+
+.page-link{
+    background-color: rgba(255, 140, 0, 0.534);
+}
+
+.padding {
+    padding: 5rem !important;
+    margin-left: 300px
+}
+
+.card {
+    margin-bottom: 1.5rem
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #c8ced3;
+    border-radius: .25rem
+}
+
+.card-header:first-child {
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #f0f3f5;
+    border-bottom: 1px solid #c8ced3
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem
+}
+
+.form-control:focus {
+    color: #5c6873;
+    background-color: #fff;
+    border-color: #c8ced3 !important;
+    outline: 0;
+    box-shadow: 0 0 0 #F44336
+}
+
+.button2 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 5px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 50px;
+  }
+
+
+
+.footer2{
+    text-align:center;
+    height: 30px;
+    line-height: 30px;
+    background: #58D68D ;
+    
+}
+
+p{
+    text-align:center;
+    color: black;
+  
+  }
+
+
+
+
